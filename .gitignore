@@ -1,1 +1,4 @@
 satpro1/
+log_unet.csv
+weights/
+tensorboard_unet/
