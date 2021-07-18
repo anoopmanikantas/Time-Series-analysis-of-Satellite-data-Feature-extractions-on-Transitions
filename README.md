@@ -18,7 +18,7 @@ To create virtual environment and install the required libraries, execute: <br>
 
 # To-do
 [done] 1. Save file on each epoch<br>
-2. Add dice loss<br>
+[done] 2. Add dice loss<br>
 [done] 3. Store the seed for the runtime<br>
 4. Change class weights and monitor the results<br>
 5. Change normalization and monitor the results (we can't compare the losses we get after changing with the losses we have now because loss is dependent on the input if our input range differs then obviouly they can't directly be compared)<br>
