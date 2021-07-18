@@ -1,5 +1,21 @@
 # Time-Series-analysis-of-Satellite-data-Feature-extractions-on-Transitions
 
+# Versions
+1. Python == 3.8.10
+
+# Hardware tested on
+
+Nvidia GTX 1050 mobile<br>
+Nvidia driver version: 460.80<br>
+CUDA version: 11.2<br>
+
+# Run on your system
+
+To create virtual environment and install the required libraries, execute: <br>
+
+./run.sh
+
+
 # To-do
 [done] 1. Save file on each epoch<br>
 2. Add dice loss<br>
@@ -10,3 +26,4 @@
 7. Check the predict function in the testing phase and see if some improvements can be made <br>
 8. Create a virtual env on local system and a requirements.txt to simulate the whole experiment without hastle <br>
 9. Create a docker <br>
+
