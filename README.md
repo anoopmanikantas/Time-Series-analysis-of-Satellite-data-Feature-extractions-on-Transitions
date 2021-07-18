@@ -1,9 +1,9 @@
 # Time-Series-analysis-of-Satellite-data-Feature-extractions-on-Transitions <br>
 
-#Version <br>
+# Version <br>
 Python - 3.9.5
 
-#Hardware
+# Hardware
 Nvidia GeForce GTX 1050 4GB 
 Driver version - 471.11 
 CUDA version - 11.4 
